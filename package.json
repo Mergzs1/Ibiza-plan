@@ -1,0 +1,1 @@
+{\n  "name": "ibiza-plan",\n  "version": "1.0.0",\n  "dependencies": {\n    "react": "^18.0.0",\n    "next": "^13.0.0"\n  }\n}
